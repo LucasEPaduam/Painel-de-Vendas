@@ -30,4 +30,4 @@ um botão para envio das informações via sms.
 
 https://krysttalmagazine.netlify.app/
 
--`Observação: Como o site está hospedado em uma conta free do Netlify, o mesmo pode demorar alguns segundo para apresentar os dados.`
+`Observação: Como o site está hospedado em uma conta free do Netlify, o mesmo pode demorar alguns segundo para apresentar os dados.`
