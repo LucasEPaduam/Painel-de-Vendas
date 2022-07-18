@@ -1,7 +1,7 @@
 # Painel-de-Vendas
 Projeto apresenta um painel de vendas 
 realizadas por vendedor onde é possível 
-filtrar as o relatório por data.
+filtrar o relatório por data.
 Para cada elemento da tabela é disponibilizado
 um botão para envio das informações via sms.
 
